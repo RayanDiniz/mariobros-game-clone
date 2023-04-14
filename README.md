@@ -1,6 +1,6 @@
 # MARIO BROS CLONE
 
-Pequine projeto com Kaboom de mario bross
+Pequeno projeto com Kaboom de Mario Bros.
 
 ## 🚀 Começando
 
